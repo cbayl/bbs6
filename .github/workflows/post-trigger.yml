@@ -1,4 +1,4 @@
-name: Do Something That Needs Scheduled
+name: Post trigger
 
 on:
   repository_dispatch:
